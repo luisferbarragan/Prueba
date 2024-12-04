@@ -12,7 +12,7 @@ namespace Programa
         private string nombre;
         private string equipo;
         private int puntos;
-
+        //Nombre de las variables (elementos identificados en la BD)
         public Liga()
         {
 
