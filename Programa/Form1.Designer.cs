@@ -210,7 +210,7 @@
             panel3.BackColor = SystemColors.AppWorkspace;
             panel3.Controls.Add(buttonEliminar);
             panel3.Controls.Add(textBoxEliminar);
-            panel3.Location = new Point(420, 341);
+            panel3.Location = new Point(420, 345);
             panel3.Name = "panel3";
             panel3.Size = new Size(221, 42);
             panel3.TabIndex = 9;
